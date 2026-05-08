@@ -1,6 +1,8 @@
 # BEE2041-FinalProject
 BEE2041 Final Project - Web Scraping and Data Analytics
+<br>
 This project investigates the home team advantage to hosting a World Cup and the quantification of this advantage
+<br>
 The intended audience for this project, as outlined in the BEE2041 Project Brief, are people with interest in this topic, but no familiarity with the datasets used
 
 ## Project Structure
